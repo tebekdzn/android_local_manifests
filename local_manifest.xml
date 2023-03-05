@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/xiaomi/lavender" name="Prashant-1695/android_device_xiaomi_lavender" remote="github" revision="11" />
+    <project path="vendor/xiaomi/lavender" name="Havoc-Devices/vendor_xiaomi_lavender" remote="github" revision="eleven" />
+    <project path="kernel/xiaomi/lavender" name="projects-nexus/nexus_kernel_xiaomi_lavender" remote="github" revision="main" />
+    <project path="vendor/xiaomi/sdm660-common" name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" remote="github" revision="11" />
+</manifest>
